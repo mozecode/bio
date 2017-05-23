@@ -4,11 +4,15 @@
 		
 	header{ background-color: black;}
 
-	nav ul li {text-align: center; text-decoration: none;}
+	nav ul li {text-align: center; text-decoration: none; font-family: 'Josefin Sans' ;}
+
+	a {text-decoration: none;}
 
 	article {padding-left: 30px;}
+
+	section, h2,h3, footer {font-family: 'Abel'; }
 		
-	h1 {text-align: center; color:#39B7CD;}
+	h1 {text-align: center; color:#39B7CD; font-family: 'Josefin Sans' ;}
 
 	h2, h3{color:#FFF; }
 		
