@@ -2,20 +2,27 @@
 	body
 		{background-color: gray;}
 		
-	header{background-color: black;}
-		
-	h1 {text-align: center; color:#39B7CD;}
-		
-	date {color:#39B7CD;}
-		
-	h2, h3{color:#FFF; }
-		
-	footer{text-align: center; margin-top: 20px; clear: both;}
+	header{ background-color: black;}
 
 	nav ul li {text-align: center; text-decoration: none;}
 
-	.wrapper ul li {list-style-type: circle;}
-}
-
 	article {padding-left: 30px;}
+		
+	h1 {text-align: center; color:#39B7CD;}
+
+	h2, h3{color:#FFF; }
+		
+	date {color:#39B7CD;}
+			
+	footer{text-align: center; margin-top: 20px; clear: both;}
+
+	.wrapper ul li {list-style-type: circle;}
+
+	.wrapper {width:80%; margin: 0 auto; display:flex; flex-direction:column; }
+
+	/* name indicator styles */
+	.centertext {text-align: center;}
+
+
+	
 
